@@ -6,7 +6,7 @@
 
 注：由于Git是以元数据的形式存储的，在GitHub上想要下载仓库中的单个文件不太方便；**推荐使用[downgit](https://minhaskamal.github.io/DownGit/#/home)工具**。
 
-## About this Repo
+## About this Repo -- by original writter
 
 我建立这个repo的初衷是搜集对**北京邮电大学想要出国的学生**有用的资料。
 
@@ -50,4 +50,13 @@ PS. 如果只是想bookmark的话，我个人不推荐大家现在fork这个项�
 * [Others](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Others) 其他
   * [美国公司](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Others/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8)
   * [referal](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Others/Referral.md)
+  
+ ---
+ 
+ ## By Apine
+ 
+在原作者的基础上，我增添了一些关于前往欧洲小语种国家修读英语CS硕士项目的资料。据粗略估计，北邮20fall大约有30-50人对前往欧洲（except大嘤）国家深造感兴趣。与前往北美和英国的北邮学生相比，前往欧洲小语种国家深造的群体相对较小，因此资料也较少。于是，在对欧洲国家进行了海投之后，Apine准备分享自己在申请过程中得到的一些信息和经验，希望对16届以后的北邮学生有所帮助，也希望能够因此扩大北邮在欧洲的组织和圈子。
 
+值得一提的是，由于Apine申请的目标是CS相关的硕士项目，因此暂时可能只能为部分人提供参考。这个repo的日后更新目标是增加EE等北邮热门专业的内容，同时也会增加关于欧洲PhD申请的信息。
+
+*此增补内容主要谈论的国家是荷兰和瑞典，同时也会涉及德国，芬兰，丹麦，比利时，爱尔兰和瑞士。另外，还会提到欧洲的两个跨国项目EIT Digital和Erasmus Mundus。
